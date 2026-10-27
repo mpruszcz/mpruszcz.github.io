@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistical Physics, SISSA, 2026 (expected)
+* Ph.D in Statistical Physics, SISSA, 2026 
 * M.S. in Theoretical Physics, University of Warsaw, 2022
 * B.S. in Physics, University of Warsaw, 2020
 
