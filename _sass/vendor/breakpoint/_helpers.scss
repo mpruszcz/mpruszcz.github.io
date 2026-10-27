@@ -1,4 +1,4 @@
-
+ @use "sass:math";
 //////////////////////////////
 // Converts the input value to Base EMs
 //////////////////////////////
@@ -35,7 +35,7 @@
     @return $value;
   }
   @else if $unit == 'pt' {
-    @return $value/ 12pt * 1em;
+    @return math.div($value/ 12pt) * 1em;
   }
   @else {
     @return $value;
