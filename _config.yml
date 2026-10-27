@@ -23,7 +23,7 @@ repository               : "mpruszcz/mpruszcz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CV_pic.png"
+  avatar           : "CV_pic.jpg"
   name             : "Marcin Piotr Pruszczyk"
   pronouns         : # example: "she/her"  
   bio              : "Post Doc at LPTMC interested in classical statistical physics"
