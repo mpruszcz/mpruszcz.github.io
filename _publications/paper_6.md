@@ -1,4 +1,3 @@
-
 ---
 title: "Gravity-controlled non-equilibrium Casimir forces in binary liquid mixtures"
 collection: publications
