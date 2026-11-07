@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* November 2026 - present: Post Doctoral Researcher
+  * Laboratoire de Physique Théorique de la Matière Condensée
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisors: Olivier Bénichou and Aurélien Grabsch
 
 * Fall 2015: Research Assistant
   * GitHub University
