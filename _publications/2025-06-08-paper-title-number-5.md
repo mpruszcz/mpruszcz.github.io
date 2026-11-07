@@ -1,7 +1,7 @@
 ---
 title: "Extreme value statistics and some applications in statistical physics"
 collection: publications
-category: lecture notes
+category: manuscripts
 permalink: /publication/2025-06-08-paper-title-number-5
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
