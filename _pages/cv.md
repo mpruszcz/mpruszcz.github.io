@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistical Physics, SISSA, 2026 
-* M.S. in Theoretical Physics, University of Warsaw, 2022
-* B.S. in Physics, University of Warsaw, 2020
+* M.Sc. in Theoretical Physics, University of Warsaw, 2022
+* B.Sc. in Physics, University of Warsaw, 2020
 
 Work experience
 ======
 * November 2026 - present: Post Doctoral Researcher
   * Laboratoire de Physique Théorique de la Matière Condensée
-  * Duties includes: Updates and improvements to template
+  * Research funded by the ERC Sybergy Grant "Universal Equation for Non Equilibrium Correlations in Interacting Particle Systems"
   * Supervisors: Olivier Bénichou and Aurélien Grabsch
 
 * Fall 2015: Research Assistant
