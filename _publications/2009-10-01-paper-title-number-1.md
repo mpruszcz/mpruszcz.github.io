@@ -2,10 +2,10 @@
 title: "Variance of the Casimir force in an ideal Bose gas"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'JSTAT'
+permalink: /publication/Casimir-variance-Bose-gas
+excerpt: ''
+date: 2022-07-19
+venue: 'J. Stat. Mech.'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
